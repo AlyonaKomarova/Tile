@@ -1,0 +1,18 @@
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.deps.json
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.dll
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.pdb
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.csprojAssemblyReference.cache
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.AssemblyInfoInputs.cache
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.AssemblyInfo.cs
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.csproj.CoreCompileInputs.cache
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.dll
+C:\Users\ALAL-\source\repos\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.pdb
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.deps.json
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.dll
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\bin\Debug\netcoreapp3.1\ClassLibraryTiles.pdb
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.csprojAssemblyReference.cache
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.AssemblyInfoInputs.cache
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.AssemblyInfo.cs
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.csproj.CoreCompileInputs.cache
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.dll
+C:\Users\ALAL-\OneDrive\Рабочий стол\Tiles\ClassLibraryTiles\ClassLibraryTiles\obj\Debug\netcoreapp3.1\ClassLibraryTiles.pdb

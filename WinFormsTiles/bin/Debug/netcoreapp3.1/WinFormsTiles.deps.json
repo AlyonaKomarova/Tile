@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsTiles/1.0.0": {
+        "dependencies": {
+          "ClassLibraryTiles": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsTiles.dll": {}
+        }
+      },
+      "ClassLibraryTiles/1.0.0": {
+        "runtime": {
+          "ClassLibraryTiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsTiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
